@@ -12,6 +12,7 @@ public class CH11_1 : MonoBehaviour
         player01 = new Player();
         player01.TakeDamage(100);
         Debug.Log($"{player01.ID}가 데미지 입음(현재 체력 {player01.currentHP})");
+        player01.SetID("New");
     }
 }
 
@@ -30,8 +31,8 @@ public class Player
 
     public string SetID(string ID)
     {
-        Debug.Log($"ID: {ID}");
-        Debug.Log($"ID: {this.ID}");
+        Debug.Log($"ID: 설정할 아이디: {ID}");
+        Debug.Log($"ID: 이 클래스의 아이디: {this.ID}");
         return ID;
     }
 }

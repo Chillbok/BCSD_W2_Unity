@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638782634475960939
-    m_Hash: 1197561154
+      ticks: 638783849841725991
+    m_Hash: 4072686707
   m_LockFileStatus:
     m_FilePath: C:/Users/junho/Repositories/BCSD_W2_Unity/bcsd_week2_unity/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638782634686297737
-    m_Hash: 2566562690
+      ticks: 638783849841725991
+    m_Hash: 3101307347
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
